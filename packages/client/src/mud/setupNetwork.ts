@@ -107,9 +107,9 @@ export async function setupNetwork() {
     // TABLES.ArrivalCount.name,
     // TABLES.MapArrivals.name,
 
-    // TABLES.Position.name,
+    TABLES.Position.name,
     // TABLES.LastClaimedAt.name,
-    TABLES.UnitLevel.name,
+    // TABLES.UnitLevel.name,
   ];
 
   /*
